@@ -1,5 +1,5 @@
    pool:
-     name: 'dafault'
+     name: dafault
    trigger:
      - master
    steps:
